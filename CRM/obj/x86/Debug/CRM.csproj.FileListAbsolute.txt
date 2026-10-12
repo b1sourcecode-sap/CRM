@@ -1,0 +1,245 @@
+E:\ird\CRM\bin\Debug\CRM.exe
+E:\ird\CRM\bin\Debug\CRM.pdb
+E:\ird\CRM\bin\Debug\CRM.exe.config
+E:\ird\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\ird\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\ird\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\ird\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\ird\CRM\obj\x86\Debug\CRM.DisplayReport.resources
+E:\ird\CRM\obj\x86\Debug\CRM.ReportDisplay.resources
+E:\ird\CRM\obj\x86\Debug\CRM.Form1.resources
+E:\ird\CRM\obj\x86\Debug\CRM.csproj.GenerateResource.Cache
+E:\ird\CRM\obj\x86\Debug\CRM.exe
+E:\ird\CRM\obj\x86\Debug\CRM.pdb
+\\192.168.11.244\ird\CRM\bin\Debug\CRM.exe.config
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.exe
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.pdb
+\\192.168.11.244\ird\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+\\192.168.11.244\ird\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+\\192.168.11.244\ird\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+\\192.168.11.244\ird\CRM\bin\Debug\CRM.exe
+\\192.168.11.244\ird\CRM\bin\Debug\CRM.pdb
+\\192.168.11.244\ird\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.csprojResolveAssemblyReference.cache
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.DisplayReport.resources
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.ReportDisplay.resources
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.Form1.resources
+\\192.168.11.244\ird\CRM\obj\x86\Debug\CRM.csproj.GenerateResource.Cache
+E:\ird\CRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.Shared.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\ird\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\ird\CRM\bin\Debug\FlashControlV71.dll
+E:\ird\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\ird\CRM\bin\Debug\stdole.dll
+E:\ird\CRM\bin\Debug\ShockwaveFlashObjects.dll
+E:\ird\CRM\bin\Debug\Sap.Data.Hana.v3.5.xml
+E:\ird\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+E:\ird\CRM\obj\x86\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\ird\CRM\obj\x86\Debug\CRM.csproj.CopyComplete
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CRM.exe.config
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CRM.exe
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CRM.pdb
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.Shared.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\FlashControlV71.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\stdole.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\ShockwaveFlashObjects.dll
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.xml
+F:\Projects_SAP\CRM\16092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+F:\Projects_SAP\CRM\16092022\CRM\obj\x86\Debug\CRM.csproj.AssemblyReference.cache
+F:\Projects_SAP\CRM\16092022\CRM\obj\x86\Debug\CRM.DisplayReport.resources
+F:\Projects_SAP\CRM\16092022\CRM\obj\x86\Debug\CRM.ReportDisplay.resources
+F:\Projects_SAP\CRM\16092022\CRM\obj\x86\Debug\CRM.Form1.resources
+F:\Projects_SAP\CRM\16092022\CRM\obj\x86\Debug\CRM.csproj.GenerateResource.cache
+F:\Projects_SAP\CRM\16092022\CRM\obj\x86\Debug\CRM.csproj.CoreCompileInputs.cache
+F:\Projects_SAP\CRM\16092022\CRM\obj\x86\Debug\CRM.csproj.CopyComplete
+F:\Projects_SAP\CRM\16092022\CRM\obj\x86\Debug\CRM.exe
+F:\Projects_SAP\CRM\16092022\CRM\obj\x86\Debug\CRM.pdb
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CRM.exe.config
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CRM.exe
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CRM.pdb
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.Shared.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\FlashControlV71.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\stdole.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\ShockwaveFlashObjects.dll
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.xml
+F:\Projects_SAP\CRM\21092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+F:\Projects_SAP\CRM\21092022\CRM\obj\x86\Debug\CRM.DisplayReport.resources
+F:\Projects_SAP\CRM\21092022\CRM\obj\x86\Debug\CRM.ReportDisplay.resources
+F:\Projects_SAP\CRM\21092022\CRM\obj\x86\Debug\CRM.Form1.resources
+F:\Projects_SAP\CRM\21092022\CRM\obj\x86\Debug\CRM.csproj.GenerateResource.cache
+F:\Projects_SAP\CRM\21092022\CRM\obj\x86\Debug\CRM.csproj.CoreCompileInputs.cache
+F:\Projects_SAP\CRM\21092022\CRM\obj\x86\Debug\CRM.csproj.CopyComplete
+F:\Projects_SAP\CRM\21092022\CRM\obj\x86\Debug\CRM.exe
+F:\Projects_SAP\CRM\21092022\CRM\obj\x86\Debug\CRM.pdb
+F:\Projects_SAP\CRM\21092022\CRM\obj\x86\Debug\CRM.csproj.AssemblyReference.cache
+E:\ird\CRM\obj\x86\Debug\CRM.csproj.AssemblyReference.cache
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CRM.exe.config
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CRM.exe
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CRM.pdb
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.Shared.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\FlashControlV71.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\stdole.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\ShockwaveFlashObjects.dll
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.xml
+F:\Projects_SAP\CRM\29092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+F:\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.csproj.AssemblyReference.cache
+F:\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.DisplayReport.resources
+F:\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.ReportDisplay.resources
+F:\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.Form1.resources
+F:\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.csproj.GenerateResource.cache
+F:\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.csproj.CoreCompileInputs.cache
+F:\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.csproj.CopyComplete
+F:\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.exe
+F:\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.pdb
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\CRM.exe.config
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\CRM.exe
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\CRM.pdb
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\stdole.dll
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.xml
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.csproj.AssemblyReference.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.DisplayReport.resources
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.ReportDisplay.resources
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.Form1.resources
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.csproj.GenerateResource.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.csproj.CopyComplete
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.exe
+D:\Drive Professional\BIBAS\Professional Data\Projects_SAP\CRM\29092022\CRM\obj\x86\Debug\CRM.pdb
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\bin\Debug\XML Files\CFL.xml
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\bin\Debug\XML Files\Menus.xml
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CRM.exe.config
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CRM.exe
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CRM.pdb
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.Shared.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\Sap.Data.Hana.v3.5.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\FlashControlV71.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\stdole.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\ShockwaveFlashObjects.dll
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\Sap.Data.Hana.v3.5.xml
+E:\BibasCode\CRM\CRM_02022023\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+E:\BibasCode\CRM\CRM_02022023\obj\x86\Debug\CRM.csproj.AssemblyReference.cache
+E:\BibasCode\CRM\CRM_02022023\obj\x86\Debug\CRM.DisplayReport.resources
+E:\BibasCode\CRM\CRM_02022023\obj\x86\Debug\CRM.ReportDisplay.resources
+E:\BibasCode\CRM\CRM_02022023\obj\x86\Debug\CRM.Form1.resources
+E:\BibasCode\CRM\CRM_02022023\obj\x86\Debug\CRM.csproj.GenerateResource.cache
+E:\BibasCode\CRM\CRM_02022023\obj\x86\Debug\CRM.csproj.CoreCompileInputs.cache
+E:\BibasCode\CRM\CRM_02022023\obj\x86\Debug\CRM.csproj.CopyComplete
+E:\BibasCode\CRM\CRM_02022023\obj\x86\Debug\CRM.exe
+E:\BibasCode\CRM\CRM_02022023\obj\x86\Debug\CRM.pdb
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\bin\Debug\XML Files\CFL.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\bin\Debug\XML Files\Menus.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\bin\Debug\XML Files\RemoveMenus.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\CRM.exe.config
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\CRM.exe
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\CRM.pdb
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\stdole.dll
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\Sap.Data.Hana.v3.5.pdb
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\Sap.Data.Hana.v3.5.xml
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\bin\Debug\Sap.Data.Hana.v3.5.dll.config
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\obj\x86\Debug\CRM.csproj.AssemblyReference.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\obj\x86\Debug\CRM.DisplayReport.resources
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\obj\x86\Debug\CRM.ReportDisplay.resources
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\obj\x86\Debug\CRM.Form1.resources
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\obj\x86\Debug\CRM.csproj.GenerateResource.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\obj\x86\Debug\CRM.csproj.CoreCompileInputs.cache
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\obj\x86\Debug\CRM.csproj.CopyComplete
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\obj\x86\Debug\CRM.exe
+D:\Bibas\Addon_ver10\KTM-200\Addon-03032024\CRM\obj\x86\Debug\CRM.pdb

@@ -1,0 +1,21 @@
+
+<Application>
+	<Menus>
+		<action type="add">
+		
+  <Menu Checked="0" Enabled="1" FatherUID="43679" String="Inquiry" Type="1" position="1" UniqueID="Inqiry" />
+  <Menu Checked="0" Enabled="1" FatherUID="3584" String="Service Master" Type="1" position="6" UniqueID="ServiceMaster" />
+  <Menu Checked="0" Enabled="1" FatherUID="3584" String="Scheme Master" Type="1" position="7" UniqueID="SchemeMaster" />
+	<Menu Checked="0" Enabled="1" FatherUID="43680" String="Enquiry Report" Type="1" position="8" UniqueID="EnqDelSummRpt" />
+	<Menu Checked="0" Enabled="1" FatherUID="43680" String="Booking Report" Type="1" position="9" UniqueID="BckRpt" />
+	<Menu Checked="0" Enabled="1" FatherUID="43680" String="Booking Cancellation Report" Type="1" position="10" UniqueID="BckRptC" />
+	<Menu Checked="0" Enabled="1" FatherUID="43680" String="Delivery Report" Type="1" position="11" UniqueID="DelRpt" />
+	<Menu Checked="0" Enabled="1" FatherUID="43680" String="Enquiry Summary Report" Type="1" position="12" UniqueID="EnqSummRpt" />
+	<Menu Checked="0" Enabled="1" FatherUID="43680" String="Booking Summary Report" Type="1" position="13" UniqueID="BckSummRpt" />
+	<Menu Checked="0" Enabled="1" FatherUID="43680" String="Booking Cancellation Summary Report" Type="1" position="14" UniqueID="BckCSummRpt" />
+	<Menu Checked="0" Enabled="1" FatherUID="43680" String="Delivey Summary Report" Type="1" position="15" UniqueID="DelSummRpt" />
+  <Menu Checked="0" Enabled="1" FatherUID="43680" String="Stock Report" Type="1" position="16" UniqueID="StockRpt" />
+
+    </action>
+	</Menus>
+</Application> 
